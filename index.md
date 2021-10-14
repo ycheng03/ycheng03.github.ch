@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to ycheng's GiHub Pages
 
-You can use the [editor on GitHub](https://github.com/ycheng03/ycheng03.github.ch/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a space I archive my code and projects - including random ideas!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to bookmark this page and keep an eye on my project updates.
 
 ### Markdown
 
